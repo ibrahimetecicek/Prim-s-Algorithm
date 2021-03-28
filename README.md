@@ -1,2 +1,1 @@
-# Prim's Minimum Spanning Tree Algorithm
-Written in Python
+Prim's Minimum Spanning Tree Algorithm
